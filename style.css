@@ -6,22 +6,39 @@ body {
 
 #cabecalho {
     position: fixed;
-    top: 0px;
+    top: 0px;    
+    background-color: green;
+    text-align: center;
+}
+
+#titulo {
+    color: white;
+    
 }
 
 #minha_foto {
     width: 150px;
     margin: 150px 0 0 0;
+    border: 2px solid green;
+    padding: 5px green;
 }
 
 table, th, td {
     border: 1px solid black;
 }
-article, aside {
+.lado-esquerdo, .lado-direito {
     border: 2px solid black;
     padding: 5px;
     font-size: 15px;
     line-height: 1.6;
     text-align: justify;
     text-justify: inter-word;
+    display: inline-block;  
+}
+
+.lado-esquerdo {
+    width: 50%;
+}
+.lado-direito {
+    width: 40%;
 }
