@@ -13,7 +13,7 @@ Neste projeto desenvolve-se um site utilizando as principais tags HTML para comp
 
 - Organização do código. Estrutura do HTML dividindo as tags adequadamente.
 
-- Eestruturar semanticamente uma página HTML. Utilizando as tags corretas, bem indentadas e com as classes e ids adequados.
+- Estruturar semanticamente uma página HTML. Utilizando as tags corretas, bem indentadas e com as classes e ids adequados.
 
 - Estruturação do CSS. Evitar repetição. Combinar e agrupar classes CSS bem definidas.
 
