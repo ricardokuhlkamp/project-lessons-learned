@@ -1,13 +1,24 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Project Lessons Learned
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+### É um projeto do módulo de fundamentos do curso de desenvolvimento web da Trybe
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+---
+
+## 📝 Proposta:
+Neste projeto desenvolve-se um site utilizando as principais tags HTML para compor a estrutura de uma página, além de estilizar e alterar o posicionamento dos componentes através de CSS.
+
+---
+
+## 💡 Habilidades desenvolvidas:
+
+- Organização do código. Estrutura do HTML dividindo as tags adequadamente.
+
+- Eestruturar semanticamente uma página HTML. Utilizando as tags corretas, bem indentadas e com as classes e ids adequados.
+
+- Estruturação do CSS. Evitar repetição. Combinar e agrupar classes CSS bem definidas.
+
+---
+
+🔗 [Linkedin ricardo-kühlkamp-dev](linkedin.com/in/ricardo-kühlkamp-dev)
+
+---
